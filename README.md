@@ -21,7 +21,7 @@
 |Arduino IDE|2.0|Sofwarw Libre|
 |SSD1602|1.8.1|Software libre|
 ## Prototipo de dibujo
-- Fotografia del dibujo a mano alzada de tu personaje
+![WhatsApp Image 2023-10-19 at 17 36 19](https://github.com/juanvg263/PersonajeNav/assets/146272821/a27f6870-98dd-48ea-8678-13352ebd78c5)
 ## Comunicación
 - La idea es que algunas ovejas simulen esten en movimiento ya sea que esten caminando y algunas otras comuendo,
 - tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
