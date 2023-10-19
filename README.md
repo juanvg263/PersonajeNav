@@ -27,6 +27,7 @@
 - tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
 - gustaria agregar musica alusiva a la navidad
 ## Arquitectura
+|Nombe|Imagen|
 |-|-|
 |Placa ESP32|![imagen_2023-09-30_205346944](https://github.com/juanvg263/PersonajeNav/assets/146272821/fc70d8c5-c175-4754-94a6-f6ebdc5c0c1c)
 |Cables Dupont|![imagen_2023-09-30_205355976](https://github.com/juanvg263/PersonajeNav/assets/146272821/198eef47-0f79-4dfb-b73a-0c9897a9b554)|
