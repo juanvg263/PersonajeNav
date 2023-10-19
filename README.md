@@ -27,6 +27,8 @@
 - tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
 - gustaria agregar musica alusiva a la navidad
 ## Arquitectura
-- Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
+-Placa ESP32
+![imagen_2023-09-30_205346944](https://github.com/juanvg263/PersonajeNav/assets/146272821/bc9953f6-e3ba-4509-8e4e-90c52d733ff3)
+
 ## Base de datos
 - Imagne tabla o tablas que usuarias ( EJ. sensores, actuadores, en un modelo relacional)
