@@ -3,6 +3,7 @@
 ## Integrantes
 - Diaz Galindo Roberto Alexis
 - Villegas Gonzalez Juan José
+- Palma Muñoz Carlos Manuel
 ## Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
