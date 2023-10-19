@@ -1,5 +1,5 @@
 ## Nombre del personaje
-- Mujer con cesto de pan
+- Ovejas
 ## Integrantes
 - Diaz Galindo Roberto Alexis
 - Villegas Gonzalez Juan José
@@ -11,17 +11,22 @@
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
 |Carton|Material para elaborar herramientas|1|$15|
 |Relleno|Material de algodon para darle forma al muñeco|1|$40|
-
+|Leds|Para hacer mas llamativo el personaje|10|$1|
+|Alambre|Base para la forma del personaje|1m|$35|
+|Motores|Para darle movimiento al personaje|10|$40|
+|Resistencias|Para no quemar los leds|10|$35|
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
+|Arduino IDE|2.0|Sofwarw Libre|
 |SSD1602|1.8.1|Software libre|
-
 ## Prototipo de dibujo
 - Fotografia del dibujo a mano alzada de tu personaje
 ## Comunicación
-- Se trata de una mujer que sostiene con ambas manos un cesto de pan el cual esta en movimiento, tambien la mujer lleva un gorro navideño con un led que encendera cada cierto tiempo
+- La idea es que algunas ovejas simulen esten en movimiento ya sea que esten caminando y algunas otras comuendo,
+- tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
+- gustaria agregar musica alusiva a la navidad
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
 ## Base de datos
