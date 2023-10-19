@@ -1,5 +1,4 @@
-## Nombre del personaje
-- Ovejas
+## Ovejas
 ## Integrantes
 - Diaz Galindo Roberto Alexis
 - Villegas Gonzalez Juan José
