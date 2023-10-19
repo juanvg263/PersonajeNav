@@ -33,8 +33,8 @@
 |Cables Dupont|![imagen_2023-09-30_205355976](https://github.com/juanvg263/PersonajeNav/assets/146272821/198eef47-0f79-4dfb-b73a-0c9897a9b554)|
 |Pantalla Oled|![imagen_2023-09-30_205406319](https://github.com/juanvg263/PersonajeNav/assets/146272821/bfdb835d-8917-48d0-8522-e4d1a9cb176f)|
 |Sensor de Mov|![imagen_2023-09-30_205411366](https://github.com/juanvg263/PersonajeNav/assets/146272821/1a6c7e30-fc71-4220-80bb-1673882ecf88)|
-|Motor|![imagen_2023-09-30_205401510](https://github.com/juanvg263/PersonajeNav/assets/146272821/5400488c-3ee4-4d03-9d6f-7f21391eb29c)|
-|Resistencia|![imagen_2023-09-30_205406319](https://github.com/juanvg263/PersonajeNav/assets/146272821/765fc8a3-2d31-448f-8989-ab3bc1dfab9e)|
+|Motor|![imagen_2023-09-30_205411366](https://github.com/juanvg263/PersonajeNav/assets/146272821/8f5b8c90-7cc1-4397-b20b-c9efb06ed5f6)
+|Resistencia|
 
 
 ## Base de datos
