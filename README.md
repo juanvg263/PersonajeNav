@@ -40,3 +40,6 @@
 |Motor|![imagen_2023-09-30_205421160](https://github.com/juanvg263/PersonajeNav/assets/146272821/cf23bb08-6137-48f2-b77b-537179317355)|
 |Resistencia|![imagen_2023-09-30_205426703](https://github.com/juanvg263/PersonajeNav/assets/146272821/fd8d6652-01ec-4894-972b-c758d93d7cb7)|
 ## Codigo utilizado para realizar las funciones 
+
+##Video del resultado final
+https://drive.google.com/file/d/1Bg6Lo9swQ26Gy1n22dAfVTLiwOz011_q/view?usp=drive_link
