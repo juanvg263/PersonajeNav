@@ -12,8 +12,12 @@
 |Relleno|Material de algodon para darle forma al muñeco|1|$40|
 |Leds|Para hacer mas llamativo el personaje|10|$1|
 |Alambre|Base para la forma del personaje|1m|$35|
-|Motores|Para darle movimiento al personaje|10|$40|
+|Servo Motoro|Para darle movimiento al personaje|10|$40|
 |Resistencias|Para no quemar los leds|10|$35|
+|Buzzer| Para implementar las melodias nivideañas que se reproduciran en nuesntro poryecto|2|$30|
+|Sensor de distancia| Se uusara para darle algunas funciones al proyecto|1|$55|
+|Algodon|Se usara para decorar a las ovejas|2|$36|
+|Motor a pasos| Se usa para darle movimiento al personaje|1|$100|
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
 |-|-|-|
@@ -25,7 +29,7 @@
 ## Comunicación
 - La idea es que algunas ovejas simulen esten en movimiento ya sea que esten caminando y algunas otras comuendo,
 - tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
-- gustaria agregar musica alusiva a la navidad
+- gustaria agregaar algunas melodias mediante el uso de los buzzer utilzando node red para establecer comunicacion con el celular y que -el usuario seleccioine una melodia para que se reproduzca
 ## Arquitectura
 |Nombe|Imagen|
 |-|-|
@@ -35,5 +39,4 @@
 |Sensor de Mov|![imagen_2023-09-30_205411366](https://github.com/juanvg263/PersonajeNav/assets/146272821/1a6c7e30-fc71-4220-80bb-1673882ecf88)|
 |Motor|![imagen_2023-09-30_205421160](https://github.com/juanvg263/PersonajeNav/assets/146272821/cf23bb08-6137-48f2-b77b-537179317355)|
 |Resistencia|![imagen_2023-09-30_205426703](https://github.com/juanvg263/PersonajeNav/assets/146272821/fd8d6652-01ec-4894-972b-c758d93d7cb7)|
-## Base de datos
-- Imagne tabla o tablas que usuarias ( EJ. sensores, actuadores, en un modelo relacional)
+## Codigo utilizado para realizar las funciones 
