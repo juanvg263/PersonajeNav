@@ -12,10 +12,10 @@
 |Relleno|Material de algodon para darle forma al muñeco|1|$40|
 |Leds|Para hacer mas llamativo el personaje|10|$1|
 |Alambre|Base para la forma del personaje|1m|$35|
-|Servo Motoro|Para darle movimiento al personaje|10|$40|
+|Servo Motor|Para darle movimiento al personaje|10|$40|
 |Resistencias|Para no quemar los leds|10|$35|
-|Buzzer| Para implementar las melodias nivideañas que se reproduciran en nuesntro poryecto|2|$30|
-|Sensor de distancia| Se uusara para darle algunas funciones al proyecto|1|$55|
+|Buzzer| Para implementar las melodias navideañas que se reproduciran en nuesntro poryecto|2|$30|
+|Sensor de distancia| Se usara para darle algunas funciones al proyecto|1|$55|
 |Algodon|Se usara para decorar a las ovejas|2|$36|
 |Motor a pasos| Se usa para darle movimiento al personaje|1|$100|
 ## Software a utilizar
@@ -29,7 +29,7 @@
 ## Comunicación
 - La idea es que algunas ovejas simulen esten en movimiento ya sea que esten caminando y algunas otras comuendo,
 - tambien los leds nos van a setvir para hacer mas llamativo nuestro proyecto pues se van a encender y apagar y nos
-- gustaria agregaar algunas melodias mediante el uso de los buzzer utilzando node red para establecer comunicacion con el celular y que -el usuario seleccioine una melodia para que se reproduzca
+- gustaria agregaar algunas melodias mediante el uso de los buzzer utilzando node red para establecer comunicacion con el celular y que --el usuario seleccioine una melodia para que se reproduzca
 ## Arquitectura
 |Nombe|Imagen|
 |-|-|
