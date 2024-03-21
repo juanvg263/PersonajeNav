@@ -1,4 +1,4 @@
-# Ovejas
+# Prototipo de Ovejas Mecanicas
 ## Integrantes
 - Diaz Galindo Roberto Alexis
 - Villegas Gonzalez Juan José
